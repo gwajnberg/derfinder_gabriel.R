@@ -1,4 +1,4 @@
-ibrary("rtracklayer")
+library("rtracklayer")
 library("GenomicRanges")
 library("systemsbio")
 library("derfinder")
